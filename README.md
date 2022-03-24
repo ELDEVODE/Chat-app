@@ -1,6 +1,8 @@
 ELDECHAT
 
-VIEW:eldechat.netlify.com
+VIEW:
+
+https://eldechat.netlify.app/
 
 ![Chat Application](https://i.ibb.co/5KSjqR0/eldechat.jpg)
 
